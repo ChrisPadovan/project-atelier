@@ -5,12 +5,11 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9281daa5684971fd3325661e3dd5fea86b21a902e3741a556fb636fbf0e2f3d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
    
-A modern reimagining of an eCommerce products page.
 Motivation and Story
 
 <h1 align="center">Project Atelier</h1>
 
-<h4 align="center">Description of the application goes here.</h4>
+<h4 align="center">A modern reimagining of an eCommerce products page.</h4>
 <p align="center"> <a href="#">View Live >></a></p>
 
 ## Features
