@@ -15,6 +15,8 @@ Motivation and Story
 ## Features
 
 
+
+
 ## Motivation and Story
 
 
@@ -49,15 +51,3 @@ Motivation and Story
 
 ## Repository Installation / Setup
 
-
-## Tests
-
-
-## Credits
-
-
-## Contributors Information
-**Edgar Carrillo**
-</br>
-- [Linkedin](https://www.linkedin.com/in/ecarrillo046/)
-- [Github](https://github.com/ec-rilo)
