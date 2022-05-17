@@ -16,8 +16,9 @@ Motivation and Story
 
 
 
-
 ## Motivation and Story
+
+We were asked to build a new, modern ecommerce website for a client that owns a clothing company. We were given a lengthy specifications document, a mock up, and an API to pull product data from. After separating out the pieces, and setting the requirements, we worked together to build a front end framework with React, Javascript, and Webpack. We showed it to the client after completing it, and got very positive feedback. 
 
 
 ## Contributors
@@ -51,3 +52,15 @@ Motivation and Story
 
 ## Repository Installation / Setup
 
+
+## Tests
+
+
+## Credits
+
+
+## Contributors Information
+**Edgar Carrillo**
+</br>
+- [Linkedin](https://www.linkedin.com/in/ecarrillo046/)
+- [Github](https://github.com/ec-rilo)
